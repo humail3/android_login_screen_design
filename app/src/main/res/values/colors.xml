@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary1">#FC85A6</color>
+    <color name="primary2">#F5588D</color>
+    <color name="secondary1">#FFC5A6</color>
+    <color name="whitesecondary2">#FAA88B</color>
+    <color name="grey">#C1C3C4</color>
+    <color name="bg_facebook_btn">#EAEEF4</color>
+    <color name="facebook">#3C5893</color>
+</resources>
